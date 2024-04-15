@@ -1,4 +1,3 @@
-// Add JavaScript below
 const LINES = document.querySelector("#lines");
 const OFFSET = document.querySelector("#offset");
 const CODE = document.querySelector("code");
