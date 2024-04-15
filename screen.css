@@ -2,3 +2,7 @@
 a.active {
     font-weight: bold;
 }
+
+p:first-letter {
+    initial-letter: 6 6;
+  }
