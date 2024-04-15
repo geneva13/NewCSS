@@ -46,9 +46,9 @@ p:first-of-type:first-letter {
   text-shadow: 0.25rem 0.25rem purple;
 }
 
-p {
-  width: 50ch;
-}
+p:first-letter {
+    initial-letter: 7.3 6;
+  }
 
 main {
   display: grid;
