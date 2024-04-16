@@ -6,7 +6,7 @@
   p:first-letter {
     color: hsl(220, 94%, 51%);
     font-weight: bold;
-    font-size: 4rem;
+    font-size: 5rem;
   }
 }
 
@@ -21,3 +21,4 @@
     max-width: calc(100vw - (2 * var(--size-4)));
   }
 }
+body {background-color: rgb(200, 236, 252);}
