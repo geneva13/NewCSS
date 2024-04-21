@@ -21,4 +21,8 @@
     max-width: calc(100vw - (2 * var(--size-4)));
   }
 }
-body {background-color: rgb(200, 236, 252);}
+body {
+  background-color: rgb(200, 236, 252);
+  color: black;
+
+}
